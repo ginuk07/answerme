@@ -1,0 +1,33 @@
+﻿@{
+    var actionLabel = "Create";
+}
+
+
+<!-- Show example of JQuery world of handling the close and then the simplicity of bootstrap -->
+<div id="recipeDataEntry" class="modal hide fade">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h3>Enter Your Question Below:
+        </h3>
+    </div>
+    <div class="modal-body">
+        <form method="post" action="/Question/@actionLabel">
+            <fieldset>
+
+                <legend>Add a new question</legend>
+
+                <div class="editor-label">
+                </div>
+                <div class="editor-field">
+                    <input id="QuestionText" name="QuestionText" type="QuestionText" />
+                </div>
+                <p>
+                    <input type="hidden" name="id" value="" />
+                </p>
+                <input type="submit" value="@actionLabel" class="btn btn=primary"/>
+
+            </fieldset>
+        </form>
+    </div>
+</div>
+

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AnswerMe.Database", "AnswerMe.Database\AnswerMe.Database.sqlproj", "{7EFF7E1C-A1BD-420E-85F4-C45E91871AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnswerMe.Data", "AnswerMe.Data\AnswerMe.Data.csproj", "{E28BD85E-E93D-47FB-8275-99B43F7AF598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnswerMe.Business", "AnswerMe.Business\AnswerMe.Business.csproj", "{4639D192-BF88-4C0A-B885-D15682856E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnswerMe.Common", "AnswerMe.Common\AnswerMe.Common.csproj", "{F987AB5D-E41C-49ED-9CC4-64C52E0BE121}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{ABF0C593-685B-4843-8A69-57F20EBAFC74}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\AutoMapper.dll = Lib\AutoMapper.dll
+		Lib\log4net.dll = Lib\log4net.dll
+		Lib\Moq.dll = Lib\Moq.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnswerMe.Web", "AnswerMe.Web\AnswerMe.Web.csproj", "{9B1B4EC8-65E2-40AC-94AA-84BA301884C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EFF7E1C-A1BD-420E-85F4-C45E91871AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFF7E1C-A1BD-420E-85F4-C45E91871AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFF7E1C-A1BD-420E-85F4-C45E91871AEF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7EFF7E1C-A1BD-420E-85F4-C45E91871AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFF7E1C-A1BD-420E-85F4-C45E91871AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFF7E1C-A1BD-420E-85F4-C45E91871AEF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E28BD85E-E93D-47FB-8275-99B43F7AF598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28BD85E-E93D-47FB-8275-99B43F7AF598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28BD85E-E93D-47FB-8275-99B43F7AF598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28BD85E-E93D-47FB-8275-99B43F7AF598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4639D192-BF88-4C0A-B885-D15682856E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4639D192-BF88-4C0A-B885-D15682856E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4639D192-BF88-4C0A-B885-D15682856E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4639D192-BF88-4C0A-B885-D15682856E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F987AB5D-E41C-49ED-9CC4-64C52E0BE121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F987AB5D-E41C-49ED-9CC4-64C52E0BE121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F987AB5D-E41C-49ED-9CC4-64C52E0BE121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F987AB5D-E41C-49ED-9CC4-64C52E0BE121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1B4EC8-65E2-40AC-94AA-84BA301884C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1B4EC8-65E2-40AC-94AA-84BA301884C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1B4EC8-65E2-40AC-94AA-84BA301884C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1B4EC8-65E2-40AC-94AA-84BA301884C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

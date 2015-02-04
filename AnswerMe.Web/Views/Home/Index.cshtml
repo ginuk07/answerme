@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "AnswerMe";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title:</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                AnswerMe is project developed by Anthony Sicignano and Ginu Kuncheria.  The app allows students a simple and quick method of submitting questions they may not wish to voice aloud.  AnswerMe allows
+                students to submit these questions via text or the web.  These questions are displayed real-time, allowing the presenter to answer them during the course of the presentation. 
+            </p>
+        </div>
+    </section>
+}
+<h3>Technologies used:</h3>
+<ol class="round">
+    <li class="one">
+        <h5>ASP.NET MVC</h5>
+        ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+        enables a clean separation of concerns and that gives you full control over markup
+        for enjoyable, agile development. ASP.NET MVC includes many features that enable
+        fast, TDD-friendly development for creating sophisticated applications that use
+        the latest web standards.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245151">Learn more…</a>
+    </li>
+
+    <li class="two">
+        <h5>Twilio</h5>
+        Twilio lets you use standard web languages to build voice, VoIP and SMS applications via a web API.
+        <a href="http://www.twilio.com">Learn more…</a>
+    </li>
+
+    <li class="three">
+        <h5>App Harbor</h5>
+        We are hosting the web project using AppHarbor, a "fully hosted .NET Platform as a Service"
+        <a href="https://appharbor.com/">Learn more…</a>
+    </li>
+    
+        <li class="four">
+        <h5>Bitbucket </h5>
+        We are utilizing Bitbucket for Source Control.  The repository is hooked into AppHarbor; each time we commit changes to our repository, AppHarbor pulls latest code, builds, and re-deploys.
+        <a href="https://bitbucket.org/">Learn more…</a>
+    </li>
+</ol>
