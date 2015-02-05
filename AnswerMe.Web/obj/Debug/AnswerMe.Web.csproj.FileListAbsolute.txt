@@ -1,0 +1,632 @@
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Antlr3.Runtime.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Spatial.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Http.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Optimization.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\WebGrease.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Http.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\System.Spatial.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\de\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\es\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\it\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Antlr3.Runtime.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Spatial.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Optimization.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\WebGrease.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\System.Spatial.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\de\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\es\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\it\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.pdb
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.pdb
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Antlr3.Runtime.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\EntityFramework.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Spatial.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Optimization.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\WebGrease.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AutoMapper.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.pdb
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.pdb
+C:\answerme\AnswerMe\AnswerMe.Web\bin\EntityFramework.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\System.Spatial.xml
+C:\answerme\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.pdb
+C:\answerme\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\de\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\es\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\fr\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\it\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ja\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ko\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\ru\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\answerme\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.csprojResolveAssemblyReference.cache
+C:\answerme\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.dll
+C:\answerme\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Antlr3.Runtime.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\EntityFramework.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Spatial.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Http.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Optimization.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\WebGrease.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AutoMapper.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\EntityFramework.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Http.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\System.Spatial.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\de\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\es\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\fr\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\it\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ja\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ko\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\ru\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.csprojResolveAssemblyReference.cache
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.pdb
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Web.pdb
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\Antlr3.Runtime.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\EntityFramework.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Spatial.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Http.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Optimization.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\WebGrease.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\AutoMapper.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Business.pdb
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Common.pdb
+C:\source\AnswerMe\AnswerMe.Web\bin\EntityFramework.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\Newtonsoft.Json.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Net.Http.Formatting.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Helpers.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Http.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Http.WebHost.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Mvc.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Razor.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Deployment.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.WebPages.Razor.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\WebMatrix.Data.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\WebMatrix.WebData.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.Core.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Web.Http.OData.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.Edm.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\Microsoft.Data.OData.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\System.Spatial.xml
+C:\source\AnswerMe\AnswerMe.Web\bin\AnswerMe.Data.pdb
+C:\source\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\de\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\es\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\fr\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\it\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ja\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ko\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\ru\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\source\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.csprojResolveAssemblyReference.cache
+C:\source\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.dll
+C:\source\AnswerMe\AnswerMe.Web\obj\Debug\AnswerMe.Web.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Web.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Antlr3.Runtime.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Data.OData.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Newtonsoft.Json.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Spatial.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Helpers.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Http.OData.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Mvc.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Optimization.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Razor.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.WebPages.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\WebGrease.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\WebMatrix.Data.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\WebMatrix.WebData.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Newtonsoft.Json.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Helpers.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Mvc.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Razor.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.WebPages.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\WebMatrix.Data.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\WebMatrix.WebData.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Web.Http.OData.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\Microsoft.Data.OData.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\System.Spatial.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\de\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\es\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\it\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\obj\Debug\AnswerMe.Web.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\obj\Debug\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Web\obj\Debug\AnswerMe.Web.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Web.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Antlr3.Runtime.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Data.OData.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Newtonsoft.Json.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Spatial.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Helpers.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Http.OData.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Mvc.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Optimization.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Razor.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.WebPages.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\WebGrease.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\WebMatrix.Data.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\WebMatrix.WebData.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Newtonsoft.Json.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Helpers.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Mvc.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Razor.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.WebPages.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\WebMatrix.Data.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\WebMatrix.WebData.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Web.Http.OData.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\Microsoft.Data.OData.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\System.Spatial.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\de\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\es\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\it\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\obj\Debug\AnswerMe.Web.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\obj\Debug\AnswerMe.Web.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Web\obj\Debug\AnswerMe.Web.pdb

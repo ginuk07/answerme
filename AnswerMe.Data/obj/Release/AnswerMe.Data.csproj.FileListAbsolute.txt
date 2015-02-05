@@ -1,0 +1,11 @@
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\AnswerMe.Data.dll.config
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\AnswerMe.Data.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\AnswerMe.Data.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\AutoMapper.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\EntityFramework.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\AnswerMe.Common.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\bin\Release\EntityFramework.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\obj\Release\AnswerMe.Data.csprojResolveAssemblyReference.cache
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\obj\Release\AnswerMe.Data.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Data\obj\Release\AnswerMe.Data.pdb

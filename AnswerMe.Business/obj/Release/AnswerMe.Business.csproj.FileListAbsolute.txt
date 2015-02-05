@@ -1,0 +1,12 @@
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\AnswerMe.Business.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\AnswerMe.Business.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\AnswerMe.Data.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\AutoMapper.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\EntityFramework.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\AnswerMe.Common.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\AnswerMe.Data.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Release\EntityFramework.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\obj\Release\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\obj\Release\AnswerMe.Business.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\obj\Release\AnswerMe.Business.pdb

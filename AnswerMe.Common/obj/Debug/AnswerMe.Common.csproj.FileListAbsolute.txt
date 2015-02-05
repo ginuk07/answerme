@@ -1,0 +1,29 @@
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.csprojResolveAssemblyReference.cache
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb
+C:\answerme\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.dll
+C:\answerme\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
+C:\answerme\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.csprojResolveAssemblyReference.cache
+C:\answerme\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
+C:\answerme\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.csprojResolveAssemblyReference.cache
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb

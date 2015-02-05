@@ -1,0 +1,31 @@
+﻿@model IEnumerable<AnswerMe.Common.Models.QuestionDto>
+
+<center><h2>Questions</h2></center>
+<table id="recipeTable" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Question Text</th>
+        </tr>
+    </thead>
+    <tbody>
+        @*
+        <tr>
+            <td class="name-col">@recipeModel.Name</td>
+            <td class="cuisine-col">@recipeModel.CuisineTypeID</td>
+            <td class="ingredient-col">@recipeModel.IngredientList.Count</td>
+            <td class="actions-col"><a class="button" href="/Recipe/ShowForm?id=@recipeModel.ID">Edit</a>&nbsp;<a class="button" href="/Recipe/Delete?id=@recipeModel.ID">Delete</a></td>
+        </tr>
+        *@
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.QuestionText</td>
+            </tr>
+    
+        }
+    </tbody>
+</table>
+

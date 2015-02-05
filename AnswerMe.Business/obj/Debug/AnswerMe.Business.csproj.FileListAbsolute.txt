@@ -1,0 +1,84 @@
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\answerme\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\answerme\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\answerme\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\answerme\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\source\AnswerMe\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\source\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\source\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\source\AnswerMe\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb

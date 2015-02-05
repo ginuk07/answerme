@@ -1,0 +1,5 @@
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\bin\Release\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\bin\Release\AnswerMe.Common.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\obj\Release\AnswerMe.Common.csprojResolveAssemblyReference.cache
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\obj\Release\AnswerMe.Common.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Common\obj\Release\AnswerMe.Common.pdb

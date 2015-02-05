@@ -1,0 +1,39 @@
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
+C:\Users\Anthony.Sicignano\documents\visual studio 2012\Projects\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
+C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
+C:\Users\ginu.kuncheria\Documents\answerme\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
+C:\answerme\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
+C:\answerme\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
+C:\answerme\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\answerme\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
+C:\answerme\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
+C:\source\BitBucket\AnswerMe\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
+C:\source\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
+C:\source\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
+C:\source\AnswerMe\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\source\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
+C:\source\AnswerMe\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\Model.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\refactor.xml
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\postdeploy.sql
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\predeploy.sql
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
+C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
