@@ -7,8 +7,8 @@
     <Key>
       <PropertyRef Name="ID" />
     </Key>
-    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
-    <Property Name="QuestionText" Type="varchar(max)" />
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="QuestionText" Type="varchar(max)" Nullable="true" />
     <Property Name="DateUpdated" Type="datetime" Nullable="false" />
     <Property Name="Answered" Type="bit" Nullable="false" />
   </EntityType>

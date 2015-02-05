@@ -2,13 +2,13 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, and Azure
 -- --------------------------------------------------
--- Date Created: 10/08/2013 23:36:13
--- Generated from EDMX file: C:\Users\ginu.kuncheria\Documents\Visual Studio 2012\Projects\AnswerMe\AnswerMe.Data\AnswerMeEntities.edmx
+-- Date Created: 02/04/2015 18:16:30
+-- Generated from EDMX file: C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\AnswerMeEntities.edmx
 -- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
 GO
-USE [AnswerMe];
+USE [dbaee4a0fd08e443539f2da4360000afca];
 GO
 IF SCHEMA_ID(N'dbo') IS NULL EXECUTE(N'CREATE SCHEMA [dbo]');
 GO
@@ -22,8 +22,8 @@ GO
 -- Dropping existing tables
 -- --------------------------------------------------
 
-IF OBJECT_ID(N'[AnswerMeModelStoreContainer].[Question]', 'U') IS NOT NULL
-    DROP TABLE [AnswerMeModelStoreContainer].[Question];
+IF OBJECT_ID(N'[dbo].[Questions]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[Questions];
 GO
 
 -- --------------------------------------------------
@@ -33,7 +33,9 @@ GO
 -- Creating table 'Questions'
 CREATE TABLE [dbo].[Questions] (
     [ID] int IDENTITY(1,1) NOT NULL,
-    [QuestionText] varchar(max)  NULL
+    [QuestionText] varchar(max)  NULL,
+    [DateUpdated] datetime  NOT NULL,
+    [Answered] bit  NOT NULL
 );
 GO
 

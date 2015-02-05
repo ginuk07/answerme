@@ -82,3 +82,15 @@ C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\bin\Debug\Entity
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\AnswerMe.Business.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\bin\Debug\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\obj\Debug\AnswerMe.Business.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\obj\Debug\AnswerMe.Business.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Business\obj\Debug\AnswerMe.Business.pdb

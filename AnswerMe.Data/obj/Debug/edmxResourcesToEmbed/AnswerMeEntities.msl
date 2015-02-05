@@ -4,10 +4,10 @@
     <EntitySetMapping Name="Questions">
       <EntityTypeMapping TypeName="IsTypeOf(AnswerMeModel.Question)">
         <MappingFragment StoreEntitySet="Questions">
-          <ScalarProperty Name="Answered" ColumnName="Answered" />
-          <ScalarProperty Name="DateUpdated" ColumnName="DateUpdated" />
-          <ScalarProperty Name="QuestionText" ColumnName="QuestionText" />
           <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="QuestionText" ColumnName="QuestionText" />
+          <ScalarProperty Name="DateUpdated" ColumnName="DateUpdated" />
+          <ScalarProperty Name="Answered" ColumnName="Answered" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

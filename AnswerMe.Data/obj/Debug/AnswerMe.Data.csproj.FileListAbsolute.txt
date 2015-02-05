@@ -74,3 +74,14 @@ C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Data\bin\Debug\EntityFram
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Data\obj\Debug\AnswerMe.Data.csprojResolveAssemblyReference.cache
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Data\obj\Debug\AnswerMe.Data.dll
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Data\obj\Debug\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AnswerMe.Data.dll.config
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AnswerMe.Data.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AutoMapper.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\EntityFramework.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\EntityFramework.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\obj\Debug\AnswerMe.Data.csprojResolveAssemblyReference.cache
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\obj\Debug\AnswerMe.Data.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\obj\Debug\AnswerMe.Data.pdb
