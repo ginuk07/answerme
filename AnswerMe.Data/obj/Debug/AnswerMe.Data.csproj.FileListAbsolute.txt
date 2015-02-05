@@ -82,6 +82,5 @@ C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AutoMa
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\EntityFramework.dll
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\AnswerMe.Common.pdb
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\bin\Debug\EntityFramework.xml
-C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\obj\Debug\AnswerMe.Data.csprojResolveAssemblyReference.cache
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\obj\Debug\AnswerMe.Data.dll
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Data\obj\Debug\AnswerMe.Data.pdb

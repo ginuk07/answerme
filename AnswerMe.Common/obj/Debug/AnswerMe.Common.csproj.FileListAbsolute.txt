@@ -27,3 +27,7 @@ C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\bin\Debug\AnswerMe
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
 C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Common\bin\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Common\bin\Debug\AnswerMe.Common.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Common\obj\Debug\AnswerMe.Common.dll
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Common\obj\Debug\AnswerMe.Common.pdb

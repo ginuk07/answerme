@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="AnswerMe.Database.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\GINU.KUNCHERIA\DOCUMENTS\ANSWERMETWO\ANSWERME.DATABASE\OBJ\DEBUG\ANSWERME.DATABASE.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\GINU.KUNCHERIA\DOCUMENTS\GITHUB\ANSWERME\ANSWERME.DATABASE\OBJ\DEBUG\ANSWERME.DATABASE.DLL" />
 			<Metadata Name="AssemblyName" Value="AnswerMe.Database" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

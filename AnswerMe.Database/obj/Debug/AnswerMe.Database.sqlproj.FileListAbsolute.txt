@@ -40,5 +40,9 @@ C:\Users\ginu.kuncheria\Documents\answermetwo\AnswerMe.Database\obj\Debug\Answer
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\bin\Debug\AnswerMe.Database.dacpac
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\bin\Debug\AnswerMe.Database.dll
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\bin\Debug\AnswerMe.Database.pdb
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\obj\Debug\Model.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\obj\Debug\refactor.xml
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\obj\Debug\postdeploy.sql
+C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\obj\Debug\predeploy.sql
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\obj\Debug\AnswerMe.Database.dll
 C:\Users\ginu.kuncheria\Documents\GitHub\answerme\AnswerMe.Database\obj\Debug\AnswerMe.Database.pdb
